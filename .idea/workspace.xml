@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11451d15-ff3c-4dfd-ba4a-ab2d5cbd5936" name="Default Changelist" comment="" />
+    <list default="true" id="11451d15-ff3c-4dfd-ba4a-ab2d5cbd5936" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,11 +33,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603068681486</updated>
-      <workItem from="1603068682623" duration="333000" />
+      <workItem from="1603068682623" duration="685000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1603068914709">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603068914709" />
+    <state x="520" y="239" key="Github.ShareDialog" timestamp="1603069014559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1603069014559" />
+    <state x="459" y="39" key="Github.UntrackedFilesDialog" timestamp="1603069108148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="459" y="39" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603069108148" />
   </component>
 </project>
